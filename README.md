@@ -1,3 +1,34 @@
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+# Replaced by CodeWizard2
+https://github.com/AdamJosephMather/CodeWizard2
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 ![Artboard 1@5x](https://github.com/user-attachments/assets/d007d8a2-101f-4d35-a691-aac32ce1ae5b)
 
 # CodeWizard
